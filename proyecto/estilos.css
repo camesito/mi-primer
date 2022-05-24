@@ -1,6 +1,15 @@
 body{
-    color: aquamarine;
+    color: blueviolet;
     text-align: center;
+
+
+}
+#container{
+    color: brown;
+    text-align: left;
+    border: 2px solid rgb(7, 7, 7);
+    margin: 0 auto;
+    padding: 1em;
 
 
 }
