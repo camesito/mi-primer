@@ -1,15 +1,22 @@
 body{
     color: blueviolet;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 
 
 }
 #container{
-    color: brown;
+    color: rgb(13, 121, 112);
     text-align: left;
     border: 2px solid rgb(7, 7, 7);
     margin: 0 auto;
     padding: 1em;
 
 
+}
+p{
+    border: 1px solid rgb(133, 23, 23);
+    color: rgb(84, 51, 85);
+    margin: 0 auto;
+    padding: 2em;
 }
