@@ -13,3 +13,11 @@ body{
 
 
 }
+#cabecera{
+
+    color: rgb(220, 230, 227);
+    text-align: center;
+    font-size: 70%;
+    background: #33a;
+    border: 3px solid rgb(122, 64, 64);
+}
