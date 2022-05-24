@@ -1,0 +1,105 @@
+[main]
+completion/size = (300, 180)
+window/position = (-8, -8)
+window/prefs_dialog_size = (1050, 530)
+window/size = (1920, 1017)
+version = 70.1.0
+current_version = 5.1.5
+spyder_pythonpath = []
+historylog_filename = C:\Users\Mediville\.spyder-py3\history.log
+window/state = 000000ff00000002fd0000000100000000000007800000039cfc0100000002fc00000000000005710000014600fffffffc0200000002fb000000120045006400690074006f0072005f0064007701000000440000022c0000008f00fffffffc00000277000001690000007600fffffffa000000000200000002fb0000002200490050007900740068006f006e0043006f006e0073006f006c0065005f006400770100000000ffffffff0000007600fffffffb000000200043006f006e0073006f006c0065005700690064006700650074005f006400770000000000ffffffff0000007000fffffffc0000057800000208000000d700fffffffc0200000002fc00000044000001cb0000008c01000015fa000000000200000006fb00000032005600610072006900610062006c0065004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000007100fffffffb0000001c0050006c006f00740073005700690064006700650074005f006400770100000000ffffffff0000007000fffffffb000000200048006900730074006f00720079005700690064006700650074005f006400770100000000ffffffff0000007600fffffffb00000030004f00750074006c0069006e0065004500780070006c006f007200650072005700690064006700650074005f006400770000000000ffffffff0000007000fffffffb0000002800460069006e00640049006e00460069006c00650073005700690064006700650074005f006400770000000000ffffffff0000008600fffffffb0000001e00500079006c0069006e0074005700690064006700650074005f006400770000000000ffffffff0000009400fffffffc00000216000001ca0000008601000015fa000000020200000006fb00000022004500780070006c006f007200650072005700690064006700650074005f006400770100000000ffffffff0000007000fffffffb0000003000500072006f006a006500630074004500780070006c006f007200650072005700690064006700650074005f006400770000000000ffffffff0000007000fffffffb0000001a00480065006c0070005700690064006700650074005f006400770100000000ffffffff0000007000fffffffb0000001e005000790064006f006300420072006f0077007300650072005f006400770000000000ffffffff0000002800fffffffb000000260042007200650061006b0070006f0069006e0074005700690064006700650074005f006400770000000000ffffffff0000007000fffffffb0000002200500072006f00660069006c00650072005700690064006700650074005f006400770000000000ffffffff0000009400ffffff000000000000039c00000004000000040000000800000008fc0000000100000002000000050000001800660069006c0065005f0074006f006f006c0062006100720100000000ffffffff00000000000000000000001600720075006e005f0074006f006f006c00620061007201000000b0ffffffff00000000000000000000001a00640065006200750067005f0074006f006f006c0062006100720100000160ffffffff000000000000000000000018006d00610069006e005f0074006f006f006c0062006100720100000268ffffffff0000000000000000000000320077006f0072006b0069006e0067005f006400690072006500630074006f00720079005f0074006f006f006c00620061007201000002ecffffffff0000000000000000
+
+[toolbar]
+last_visible_toolbars = []
+
+[main_interpreter]
+custom_interpreters_list = []
+custom_interpreter = 
+
+[onlinehelp]
+zoom_factor = 0.8
+
+[project_explorer]
+max_recent_projects = 10
+recent_projects = []
+current_project_path = None
+scrollbar_position = (0, 0)
+expanded_state = None
+
+[quick_layouts]
+place_holder = 
+names = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+order = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+active = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+ui_names = ['Spyder Default Layout', 'Rstudio layout', 'Matlab layout', 'Horizontal split', 'Vertical split']
+layout_0/size = (1260, 1844)
+layout_0/prefs_dialog_size = (1050, 530)
+layout_0/is_maximized = True
+layout_0/is_fullscreen = False
+layout_0/position = (10, 10)
+layout_0/state = None
+layout_0/statusbar = True
+layout_1/size = (1260, 1844)
+layout_1/prefs_dialog_size = (1050, 530)
+layout_1/is_maximized = True
+layout_1/is_fullscreen = False
+layout_1/position = (10, 10)
+layout_1/state = None
+layout_1/statusbar = True
+layout_2/size = (1260, 1844)
+layout_2/prefs_dialog_size = (1050, 530)
+layout_2/is_maximized = True
+layout_2/is_fullscreen = False
+layout_2/position = (10, 10)
+layout_2/state = None
+layout_2/statusbar = True
+layout_3/size = (1260, 1844)
+layout_3/prefs_dialog_size = (1050, 530)
+layout_3/is_maximized = True
+layout_3/is_fullscreen = False
+layout_3/position = (10, 10)
+layout_3/state = None
+layout_3/statusbar = True
+layout_4/size = (1260, 1844)
+layout_4/prefs_dialog_size = (1050, 530)
+layout_4/is_maximized = True
+layout_4/is_fullscreen = False
+layout_4/position = (10, 10)
+layout_4/state = None
+layout_4/statusbar = True
+layout_default/size = (1260, 1844)
+layout_default/prefs_dialog_size = (1050, 530)
+layout_default/is_maximized = True
+layout_default/is_fullscreen = False
+layout_default/position = (10, 10)
+layout_default/state = None
+layout_default/statusbar = True
+
+[pylint]
+history_filenames = []
+
+[find_in_files]
+exclude_index = 0
+search_in_index = 0
+
+[workingdir]
+console/fixed_directory = 
+
+[editor]
+splitter_state = 000000ff00000001000000010000048d01ffffffff010000000100
+recent_files = ['C:\\Users\\Mediville\\.spyder-py3\\generador de contarseñas.py', 'C:\\Users\\Mediville\\.spyder-py3\\ejercicio topo.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled5.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled6.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled7.py', 'C:\\Users\\Mediville\\.spyder-py3\\nuemnros primos.py', 'C:\\Users\\Mediville\\.spyder-py3\\videojuego.py', 'C:\\Users\\Mediville\\.spyder-py3\\bucles retos.py', 'C:\\Users\\Mediville\\.spyder-py3\\temp.py', 'C:\\Users\\Mediville\\.spyder-py3\\listas.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled4.py', 'C:\\Users\\Mediville\\.spyder-py3\\ejercicios5.py', 'C:\\Users\\Mediville\\.spyder-py3\\numero mayor.py', 'C:\\Users\\Mediville\\.spyder-py3\\modulo.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled1.py', 'C:\\Users\\Mediville\\.spyder-py3\\strings.py', 'C:\\Users\\Mediville\\.spyder-py3\\bucles.py', 'C:\\Users\\Mediville\\.spyder-py3\\primeros pasos.py', 'C:\\Users\\Mediville\\.spyder-py3\\menus.py', 'C:\\Users\\Mediville\\.spyder-py3\\funciones.py']
+filenames = ['C:\\Users\\Mediville\\.spyder-py3\\ejercicio topo.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled5.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled6.py', 'C:\\Users\\Mediville\\.spyder-py3\\untitled7.py', 'C:\\Users\\Mediville\\.spyder-py3\\nuemnros primos.py', 'C:\\Users\\Mediville\\.spyder-py3\\videojuego.py', 'C:\\Users\\Mediville\\.spyder-py3\\generador de contarseñas.py']
+bookmarks = {}
+layout_settings = {'hexstate': '000000ff00000001000000010000022c00ffffffff010000000200', 'sizes': [556], 'splitsettings': [(False, 'C:\\Users\\Mediville\\.spyder-py3\\generador de contarseñas.py', [8, 25, 26, 15, 18, 20, 12])]}
+
+[outline_explorer]
+scrollbar_position = None
+
+[run]
+breakpoints = {'c:\\users\\mediville\\.spyder-py3\\ejercicio topo.py': [], 'c:\\users\\mediville\\.spyder-py3\\generador de contarseñas.py': [(11, None)]}
+configurations = [('C:\\Users\\Mediville\\.spyder-py3\\temp.py', {'args/enabled': False, 'args': '', 'workdir/enabled': None, 'workdir': None, 'current': True, 'systerm': False, 'interact': False, 'post_mortem': False, 'python_args/enabled': False, 'python_args': '', 'clear_namespace': False, 'console_namespace': False, 'file_dir': True, 'cw_dir': False, 'fixed_dir': False, 'dir': ''})]
+defaultconfiguration = {}
+
+[explorer]
+file_associations = {}
+
